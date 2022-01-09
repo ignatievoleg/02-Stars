@@ -1,0 +1,17 @@
+{
+  "name": "02_Stars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ignatievoleg/02-Stars.git",
+  "author": "Ihnatiev Oleg <ignatievolegsky@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
